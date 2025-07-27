@@ -50,3 +50,42 @@ Download JavaFX SDK from [gluonhq.com](https://gluonhq.com/products/javafx/) and
 
 In **Run > Edit Configurations**, set:
 
+
+
+
+### 4. Run the App
+
+Press ▶️ or right-click the main class (`SortingRaceVisualizer`) and select **Run**.
+
+---
+
+## 📸 Screenshots
+
+> _(Add screenshots of your GUI showing the sorting race here)_
+
+---
+
+## 📚 References
+
+- JavaFX Official Docs – [https://openjfx.io](https://openjfx.io)
+- Visual algorithm inspiration from [visualgo.net](https://visualgo.net/en/sorting)
+
+---
+
+## 💡 Future Improvements
+
+- Add pause/resume/reset functionality
+- Support for custom array sizes and user inputs
+- More algorithms: Heap Sort, Radix Sort, etc.
+- Performance metrics overlay
+
+---
+
+## 🧑‍💻 Author
+
+Arjav C Prabhu  
+[LinkedIn](https://www.linkedin.com/in/arjav-c-prabhu-377b84262/) | [GitHub](https://github.com/Primordial579)
+
+
+
+
