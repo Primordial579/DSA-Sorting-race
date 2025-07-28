@@ -11,10 +11,8 @@ A visual and interactive sorting algorithm race built using **JavaFX**. This pro
 - 🏁 "Race" mode to compare speed and behavior
 - 🧮 Algorithms include:
   - Bubble Sort
-  - Selection Sort
-  - Insertion Sort
   - Merge Sort
-  - Quick Sort
+
 
 ---
 
