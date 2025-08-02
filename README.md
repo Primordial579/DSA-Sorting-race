@@ -1,6 +1,7 @@
 # 🔢 JavaFX Sorting Race Visualizer
 
 A visual and interactive sorting algorithm race built using **JavaFX**. This project demonstrates how different sorting algorithms perform on the same dataset — side-by-side — in real-time.
+
 View working: https://youtu.be/4kp8DTyYK5M
 ---
 
